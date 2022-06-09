@@ -13,3 +13,5 @@
 `yarn dev`
 
 `yarn add react-icons`
+
+![Proje Çıktısı](2022-06-09-03-32-42.png)
